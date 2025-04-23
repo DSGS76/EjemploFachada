@@ -37,7 +37,7 @@ public class Facade {
 	private JLabel logoLabel;
 	private int mouseX;
 	private int mouseY;
-    String archivo = "src/main/java/com/modelos/test.txt";
+    private String archivo = "src/main/java/com/modelos/test.txt";
 	
 
 	/**
